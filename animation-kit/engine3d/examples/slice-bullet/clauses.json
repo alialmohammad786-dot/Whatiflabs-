@@ -1,0 +1,13 @@
+[
+ ["If you fired a bullet straight at a sword's edge,", 0.22, 0.95, 1.30, 1.00, 0.4],
+ ["you'd expect the blade to shatter.", 0.75, 0.93, 1.30, 0.98, 0.0],
+ ["But most bullets are soft lead,", 0.20, 0.93, 1.35, 1.05, 0.3],
+ ["wrapped in a thin copper jacket.", 0.50, 0.95, 1.25, 0.96, -0.2],
+ ["And a katana's edge is hardened steel,", 0.18, 0.93, 1.35, 1.02, 0.2],
+ ["far harder than both.", 0.60, 0.90, 1.30, 1.00, -0.4],
+ ["So when they meet, the blade doesn't break.", 0.35, 0.93, 1.35, 1.05, 0.3],
+ ["It slices the bullet clean in two!", 0.55, 0.90, 1.40, 1.12, 0.0],
+ ["And the halves fly off either side.", 0.65, 0.95, 1.30, 1.00, -0.2],
+ ["But no one can react to a real bullet.", 0.30, 0.93, 1.35, 1.05, 0.3],
+ ["The sword has to be waiting, right in its path!", 0.0, 0.90, 1.40, 1.10, -0.3]
+]
